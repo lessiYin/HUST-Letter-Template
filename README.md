@@ -1,6 +1,6 @@
 # HUST Letter LaTeX Template
-
 This is a LaTeX template for letters from **Huazhong University of Science and Technology (HUST)**.
+![Template Preview](HUST_Letter_Template.png)
 
 ## 🚀 How to Use
 
